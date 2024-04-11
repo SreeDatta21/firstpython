@@ -1,2 +1,4 @@
 # firstpython
-c = a+b
+c = a+b this is some of two numbers
+
+
