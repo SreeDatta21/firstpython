@@ -1,1 +1,2 @@
 # firstpython
+c = a+b
